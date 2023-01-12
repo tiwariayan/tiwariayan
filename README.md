@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwariayan&theme=great-gatsby&count_private=true&layout=compact)](https://github.com/tiwariayan)
+[![Ayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiwariayan)](https://github.com/tiwariayan/github-readme-stats)
 
 - 🔭 Working on Python, SQL, Data Engineering, Data Pipelines.
 - 🌱 I’m currently learning Cloud Data Pipelines, Data Warehouses, Deep Learning
